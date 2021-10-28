@@ -1,6 +1,6 @@
 # Lighting models in OpenGL
-![Lighting models in OpenGL demo](https://raw.githubusercontent.com/Kupilif/OpenGL-Demo/master/Figure1.GIF)
-![Lighting models in OpenGL demo](https://raw.githubusercontent.com/Kupilif/OpenGL-Demo/master/Figure2.GIF)
+![Lighting models in OpenGL demo](./Figure1.GIF)
+![Lighting models in OpenGL demo](./Figure2.GIF)
 ## Movements
 - `Space` — enable / disable movements
 - `W` — forward
